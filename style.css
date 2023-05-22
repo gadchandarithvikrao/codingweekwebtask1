@@ -1,0 +1,92 @@
+body{
+    background-color: #1E1E1E;
+}
+.cont{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+     width: 50%;
+border-radius: 0px;
+    background-color: whitesmoke;
+
+}
+.name{
+    height: 100px;
+    width: 100%;
+    border-radius: 0px;
+    background-color: #D2D4F2;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.ok{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.top{
+    height: 250px;
+    width: 100%; 
+    border-radius: 64px;
+    border-top-left-radius: 0px;
+    border-top-right-radius: 0px;
+    background: #656CEC;
+    }
+.leader{
+    font-family: Segoe UI;
+font-size: 64px;
+font-weight: 400;
+line-height: 64px;
+letter-spacing: 0em;
+text-align: left;
+color:#FFFFFF;
+text-align: center;
+}
+.text{
+    font-family: Inter;
+font-size: 32px;
+font-weight: 400;
+line-height: 39px;
+letter-spacing: 0em;
+padding: 10px;
+
+}
+.scircle{
+    height: 80px;
+    width: 80px;
+    background-color:  #BABEFF;
+    border-radius: 50%;
+}
+.circles{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    gap: 10px;
+}
+.circle{
+    height: 186px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.main{
+height: 100px;
+width: 100px;
+border-radius: 50%;
+background-color:#BABEFF;
+
+}
+.sub{
+    height: 75px;
+    width: 75px;
+    border-radius: 50%;
+    background-color:#BABEFF;
+}
+.circle p{
+    text-align: center;
+    background-color:#BABEFF;
+}
+.no{
+    width: 35px;
+}
