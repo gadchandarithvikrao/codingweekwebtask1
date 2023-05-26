@@ -128,3 +128,6 @@ border-width: thick;
       background-position: 0% 50%;
     }
   }
+ img{
+    border-radius: 50%;
+ }
