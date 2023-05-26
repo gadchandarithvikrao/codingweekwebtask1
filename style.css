@@ -5,7 +5,8 @@ body{
     display: flex;
     flex-direction: column;
     gap: 10px;
-     width: 50%;
+     width: 100%;
+     max-width: 760px;
 border-radius: 0px;
     background-color: whitesmoke;
 
@@ -127,3 +128,6 @@ border-width: thick;
       background-position: 0% 50%;
     }
   }
+ img{
+    border-radius: 50%;
+ }
